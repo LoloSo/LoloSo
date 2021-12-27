@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on parsers for sites
+🤔 I’m looking for help with Beatifull soup
+💬 Ask me about discord monitors
+📫 How to reach me: discord Lolo'#0001
+
 <!--
 **LoloSo/LoloSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
